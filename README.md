@@ -1,5 +1,6 @@
 # Customer-Segementation-Analysis-Model
 This model analyzes the banking patterns of customers and divides them into various customer various group. Various processes such as data preparation, data cleaning exploratory data analysis, visualization, modelling and evaluation have been implemented in this project.
+
 Customer segmentation divides the customers into various groups which allows the market team in an organization to target them with specific services or products which would be suitable for each group. This segmentation allows marketers to produce tailor made promotions for it customer groups. The company/organization using this segmentation process provides the following benefits:
 
 >* Identify a suitable communication channel for each group (i.e. social media, email, radio, phone calls, etc.).
